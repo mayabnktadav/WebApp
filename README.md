@@ -16,18 +16,6 @@ Table Queries.txt contains the SQL queries to create database with different req
 
 App.java file contains main method. To run the program execute Index.html file.
 
-# Home Page:
 
-![Index](https://user-images.githubusercontent.com/73383343/136646974-6baf62ed-8dca-4cb4-aa7b-f75e264d957d.JPG)
 
-# Add Student Information:
 
-![Student Information](https://user-images.githubusercontent.com/73383343/136647014-27c96bdd-3a1f-4656-89ac-21d59f9aedd8.JPG)
-
-# Add New Student Data:
-
-![New Student Data](https://user-images.githubusercontent.com/73383343/136647039-4e3e254e-2c09-44e7-9a6d-f16adea36df2.JPG)
-
-# View Student Data:
-
-![View Data](https://user-images.githubusercontent.com/73383343/136647058-7d3eabf5-e9f6-49a4-a849-886a80f1936a.JPG)
